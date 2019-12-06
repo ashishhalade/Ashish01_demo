@@ -1,4 +1,4 @@
-
+int sum(int,int);
 int main() {
   int a=10, b=12, c=18, d;
   d=sum(a,b,c); //??
